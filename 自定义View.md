@@ -20,7 +20,7 @@
 	}
 
 ####自定义属性####
-- 在<declare-styleable>中自定义属性
+- 在 <declare-styleable> 中自定义属性
 - 确定这些属性的值
 - 运行时解析这些属性值
 - 将这些属性值应用到Custom View中
